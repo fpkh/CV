@@ -53,7 +53,7 @@ Education
 * Algorithms and Data Structures;  
 * Computer Architecture and Operating Systems.  
 
-***Relevant coursepaper*** 
+***Relevant coursepaper:*** 
 
 &nbsp; &nbsp; &nbsp; "Program for Assessing the Creditworthiness of Borrowers Based on the Logistic Regression Algorithm":  
 
